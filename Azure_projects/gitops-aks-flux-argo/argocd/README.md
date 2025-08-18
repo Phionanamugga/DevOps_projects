@@ -1,0 +1,1 @@
+Placeholder for ArgoCD manifests and instructions.

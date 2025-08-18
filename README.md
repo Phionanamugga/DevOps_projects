@@ -8,7 +8,7 @@ Each project folder contains:
 - Infrastructure-as-Code (Terraform / CloudFormation / ARM/Bicep)  
 - Step-by-step deployment guide in README.md  
 
----
+
 
 ## 📂 Project List  
 
@@ -61,7 +61,6 @@ Each project folder contains:
     Secure networking with NAT, Security Groups, and subnetting.  
     *Skills: Networking, Security*  
 
----
 
 ### ☁️ Google Cloud Projects  
 13. **CI/CD Pipeline on GCP with GKE**  
@@ -112,7 +111,7 @@ Each project folder contains:
     CI/CD pipeline with static code analysis, container scanning, Key Vault integration, and Azure Policy compliance.  
     *Skills: DevSecOps, Compliance, Security Automation*  
 
----
+
 
 ## 🛠️ Tech Stack  
 
@@ -133,7 +132,7 @@ git clone https://github.com/Phionanamugga/DevOps_Projects_Portfolio.git
 cd DevOps_Projects_Portfolio
 
 # Navigate to a project folder (AWS, Azure, GCP)
-cd azure-ci-cd-aks
+
 Follow the instructions in the project’s README.md to deploy resources.
 ⚠️ Note: Some projects may incur cloud costs if deployed. Remember to delete resources after testing.
 
@@ -142,6 +141,7 @@ Phiona Namugga
 🌍 Based in Germany 🇩🇪
 🎓 MSc Data Science, AI & Digital Business
 📌 Career: AI & DevOps
+
 ⭐ Contribution
 This is a learning-focused repository.
 Feel free to fork, explore, and suggest improvements via Pull Requests!
