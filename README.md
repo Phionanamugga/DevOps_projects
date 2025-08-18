@@ -8,7 +8,6 @@ Each project folder contains:
 - **Infrastructure-as-Code (Terraform / CloudFormation templates)**  
 - **Step-by-step deployment guide in README.md**  
 
----
 
 ## 📂 Project List
 
@@ -65,7 +64,7 @@ Each project folder contains:
 - Deploy a DB in private subnet and web server in public subnet.  
 - Skills: Networking, Security.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +72,7 @@ Each project folder contains:
 - **Infrastructure as Code:** Terraform & AWS CloudFormation.  
 - **Languages & Tools:** Python, Bash, YAML, JSON.  
 
----
+
 
 ## 📖 How to Use
 
