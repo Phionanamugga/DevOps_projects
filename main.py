@@ -1,6 +1,5 @@
 
-# MENU 
-
+# MENU __
 #!/bin/bash
 # Author: Phiona Namugga (GitHub: Phionanamugga)
 # Description: Simple DevOps script to deploy a static website on AWS S3
