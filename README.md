@@ -1,7 +1,7 @@
-# # 🚀 AWS DevOps Projects Portfolio
+# # 🚀 DevOps Projects Portfolio
 
 Welcome to my ** DevOps Projects Portfolio**!  
-This repository demonstrates my hands-on experience with ** AWS Cloud Practitioner  knowledge** and **DevOps practices**.  
+This repository demonstrates my hands-on experience with ** Cloud Practitioner  knowledge** and **DevOps practices**.  
 
 Each project folder contains:  
 - **Source code / configuration files**  
