@@ -1,0 +1,26 @@
+# Minimal ArgoCD installation (use official docs for production)
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: argocd
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: argocd-server
+  namespace: argocd
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: argocd-server
+  template:
+    metadata:
+      labels:
+        app: argocd-server
+    spec:
+      containers:
+      - name: server
+        image: argoproj/argocd:latest
+        ports:
+        - containerPort: 8080

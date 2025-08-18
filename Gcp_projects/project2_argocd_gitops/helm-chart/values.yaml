@@ -1,0 +1,4 @@
+replicaCount: 1
+image:
+  repository: REPLACE_WITH_ARTIFACT_REGISTRY/sample-app
+  tag: latest
